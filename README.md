@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **bgill55.art@gmail.com**
 
+- <img src="https://github.com/bgill55/bgill55/assets/239051/89741380-3e20-4a56-82d1-d2c9ac14fc83" width="25" height="25"/> A free ChatGPT bot with prompt library, bot will take on on a plethora of personas. <a href="https://bgill55.github.io/BetterChatGPT/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/239051?s=48&v=4" alt="<----click me" height="30" width="40" /></a>
 - ⚡ Fun fact **Im left handed**
 
 <h3 align="left">Connect with me:</h3>
