@@ -12,10 +12,11 @@
 ## 🎨 Artwork
 
 *   **[Leaving Las Vegas]:** ![image](https://github.com/user-attachments/assets/cec9e431-af32-49f4-952d-fb22f451b2aa)
+*   **[Downside up]:**
 ![8AC2F14F-4E6C-4A0F-BD9A-FA68EBCA975C](https://github.com/user-attachments/assets/96edb577-4e59-4556-912c-8ec9fa6674d6)
 
 
-*   **[Artwork Title 2]:** [Link to Instagram/Dribbble/Behance]
+ [Link to Instagram/Dribbble/Behance]
     [Brief description of the artwork]
     ![Artwork 2]([link to image in your repo or external host])
 
