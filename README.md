@@ -12,8 +12,10 @@
 ## 🎨 Artwork
 
 *   **[Leaving Las Vegas]:** ![image](https://github.com/user-attachments/assets/cec9e431-af32-49f4-952d-fb22f451b2aa)
+  An homage to my home town. (there is a few hidden    gems)
 *   **[Downside up]:**
 ![8AC2F14F-4E6C-4A0F-BD9A-FA68EBCA975C](https://github.com/user-attachments/assets/96edb577-4e59-4556-912c-8ec9fa6674d6)
+  Turn your device upside down and look at the image   again 
 
 
  [Link to Instagram/Dribbble/Behance]
