@@ -1,6 +1,10 @@
+
+
+
+
 <h1 align="center">Hi 👋, I'm bgill55</h1>
 <h3 align="center">Artist and Lifelong Learner</h3>
-
+https://github.com/user-attachments/assets/3c58851f-9734-4cfa-ab8b-7b54bc6c0379
 <p align="center">
   <a href="https://twitter.com/bgill55_art" target="_blank">
     <img src="https://img.shields.io/twitter/follow/bgill55_art?style=for-the-badge" alt="Twitter Follow" />
