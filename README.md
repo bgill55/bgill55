@@ -15,7 +15,7 @@
   An homage to my home town. (there is a few hidden    gems)
 *   **[Downside up]:**
 ![8AC2F14F-4E6C-4A0F-BD9A-FA68EBCA975C](https://github.com/user-attachments/assets/96edb577-4e59-4556-912c-8ec9fa6674d6)
-  Turn your device upside down and look at the image   again   [Downside Up]([https://www.instagram.com/p/CIQizADjaoH/?utm_source=ig_web_copy_link&igsh=eDU0dnJscm54MGhi])
+  Turn your device upside down and look at the image   again   [Downside Up] <a href="https://www.instagram.com/p/CIQizADjaoH/?utm_source=ig_web_copy_link&igsh=eDU0dnJscm54MGhi">
 
 ## 🛠️ Languages and Tools
 
