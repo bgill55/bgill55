@@ -3,7 +3,7 @@
 <h3 align="center">Artist and Lifelong Learner</h3>
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/cec9e431-af32-49f4-952d-fb22f451b2aa)
+![Lounge GIF](assets/bgill55_art__lounge.gif)
 
 <p align="center">
   <a href="https://twitter.com/bgill55_art" target="_blank">
