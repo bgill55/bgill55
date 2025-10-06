@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm bgill55</h1>
 <h3 align="center">Artist and Lifelong Learner</h3>
 
-<p align="center">
-![Lounge GIF](assets/bgill55_art__lounge.gif)
+
 
 <p align="center">
   <a href="https://twitter.com/bgill55_art" target="_blank">
@@ -11,7 +10,7 @@
   </a>
 </p>
 
-<p align="center">I'm an artist passionate about [mention your art style or focus]. I'm also a dedicated learner, constantly exploring new technologies and creative techniques.</p>
+<p align="center">I'm an artist passionate about retro-futuristic style art, full stack web and mobile dev.  I'm also a dedicated learner, constantly exploring new technologies and creative techniques.</p>
 
 ## 🎨 Artwork
 
