@@ -20,25 +20,7 @@
 ![8AC2F14F-4E6C-4A0F-BD9A-FA68EBCA975C](https://github.com/user-attachments/assets/96edb577-4e59-4556-912c-8ec9fa6674d6)
   Turn your device upside down and look at the image   again   [Downside up](https://www.instagram.com/p/CIQizADjaoH/?utm_source=ig_web_copy_link&igsh=eDU0dnJscm54MGhi)
 
-## 🛠️ Languages and Tools
-
-<p align="center">  
-<!-- Design Tools -->  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>  
-</a>  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>  
-</a>  
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">  
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>  
-</a>  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">  
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>  
-</a>  
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">  
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>  
-</a>
+568137
 
 <!-- Programming Languages -->  
 <a href="https://www.python.org" target="_blank" rel="noreferrer">  
