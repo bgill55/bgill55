@@ -98,11 +98,8 @@ I'm a full-stack developer and digital artist passionate about building **local-
 
 ---
 
-### 📊 GitHub Metrics
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/bgill55?style=for-the-badge&logo=github&color=1E3A8A&labelColor=0F172A" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/bgill55?style=for-the-badge&logo=github&color=F59E0B&labelColor=0F172A" alt="Stars" />
+  <a href="https://github.com/bgill55"><img src="https://img.shields.io/badge/crafted%20with%20%E2%9D%A4-bgill55__dev-F25F5C?style=for-the-badge&logo=github&logoColor=white" alt="Crafted with love by bgill55_dev" /></a>&emsp;<a href="https://buymeacoffee.com/bgill55art"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </p>
 
 ---
