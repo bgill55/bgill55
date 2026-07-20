@@ -98,10 +98,15 @@ I'm a full-stack developer and digital artist passionate about building **local-
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bgill55&theme=dark&hide_border=true" width="96%" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/github/followers/bgill55?style=for-the-badge&logo=github&color=1E293B&labelColor=0F172A" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/bgill55?style=for-the-badge&logo=github&color=1E293B&labelColor=0F172A" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/bgill55" width="100%" alt="bgill55 GitHub Contributions" />
 </p>
 
 ---
