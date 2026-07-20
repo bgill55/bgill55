@@ -45,6 +45,7 @@ I'm a full-stack developer and digital artist passionate about building **local-
 
 #### AI & Infrastructure
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Antigravity AI](https://img.shields.io/badge/Antigravity_AI-1E3A8A?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Unsloth](https://img.shields.io/badge/Unsloth-FF6000?style=for-the-badge&logo=pytorch&logoColor=white)
