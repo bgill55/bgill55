@@ -98,11 +98,10 @@ I'm a full-stack developer and digital artist passionate about building **local-
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bgill55&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgill55&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=bgill55&theme=dark&hide_border=true" width="96%" alt="GitHub Streak Stats" />
 </p>
 
 ---
